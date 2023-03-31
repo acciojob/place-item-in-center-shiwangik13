@@ -1,2 +1,18 @@
 
+.holder{
+    display: flex;
+    width: 400px;
+    height: 400px;
+    border: 2px solid blue;
+    background-color: aquamarine;
+    margin: 20px;
+    padding: 10px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.item-1{
+ color: black;
+ font-size: large;
+}
 /* Your CSS Code here. */
